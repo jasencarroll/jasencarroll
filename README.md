@@ -6,4 +6,4 @@ This profile is not meant to showcase my polished professional work—for that, 
 
 If you’re curious, feel free to explore! 🚀
 
-Disclaimer: Not all those commits are mine, and even some of mine are duplicated. Let's assume it's ~80% mine. 
+Disclaimer: Not all those commits are mine, and even some of mine are duplicated. Let's assume it's ~80% mine and original. 
